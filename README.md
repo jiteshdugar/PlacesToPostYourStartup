@@ -74,7 +74,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Get App - http://getapp.com/
 * Getworm - https://getworm.com/submit-startup
 * Gust - https://www.gust.com
-* Hackerstreet - https://in.thehackerstreet.com/
 * Haro - https://www.helpareporter.com/sources/
 * I Am Wire - http://www.iamwire.com/startups/user/register?uType=Entrepreneur
 * Idea Hunt - http://ideahunt.io/
